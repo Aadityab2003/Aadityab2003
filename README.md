@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaditya Baraskar</h1>
-<h3 align="center">Data-Driven Explorer | Python • SQL • Power BI • Excel 📊</h3>
+<h3 align="center">Data-Driven Explorer | Excel Enthusiast | Passionate About Uncovering Insights 📊</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Data+Analysis+|+Pandas+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+data+into+stories&center=true&width=600&height=40" alt="Typing SVG" />
@@ -18,7 +18,7 @@
 - 🐍 **Advanced Python** (Pandas, NumPy)  
 - 🗄️ **SQL for Data Analysis**  
 - 📊 **Power BI Dashboards**  
-- 📗 **Excel Dashboards & Formulas**  
+- 📈 **Excel Functions & Automation**  
 - 🤖 Intro to **Machine Learning**
 
 ### 👨‍💻 Projects to Explore  
@@ -29,18 +29,29 @@ All my data-driven work is available at:
 SQL, data visualization, Power BI, Excel, cleaning messy datasets, and more!
 
 ### 📫 Reach Me At  
-✉️ aadityabaraskar2003@gmail.com
+✉️ aadityabaraskar2003@gmail.com  
+🐙 [GitHub](https://github.com/Aadityab2003)
 
 ### ⚡ Fun Fact  
 🔍📊 I explain data trends better than I explain my weekend plans 🧠📅
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/aaditya-baraskar-564632292/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://www.kaggle.com/aadityabaraskar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="40" height="40"/></a>
-  <a href="https://www.instagram.com/aditya_baraskar_21/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/></a>
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aaditya-baraskar-564632292/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aadityabaraskar2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Aadityab2003" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
 
 ---
